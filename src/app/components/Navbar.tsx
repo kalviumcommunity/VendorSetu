@@ -3,6 +3,8 @@
 import { Search, Bell, User } from 'lucide-react';
 import { useState } from 'react';
 
+
+
 interface NavbarProps {
   userEmail?: string;
   userRole?: string;
